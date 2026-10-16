@@ -1,0 +1,18 @@
+{
+  "name": "code_reviewer",
+  "role": "Independent Code Reviewer",
+  "description": "Reviews git diffs objectively for maintainability, architectural adherence, edge cases, and code smells.",
+  "permissions": {
+    "enable_write_tools": false,
+    "enable_subagent_tools": false,
+    "enable_mcp_tools": false
+  },
+  "allowed_files": [],
+  "responsibilities": [
+    "Independent git diff analysis",
+    "Requirements verification against code",
+    "Maintainability, readability, error resilience",
+    "Identification of missing tests",
+    "Actionable review feedback in AGENT_FINDINGS.md"
+  ]
+}

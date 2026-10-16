@@ -1,0 +1,12 @@
+{
+  "name": "multi-agent-orchestrator",
+  "displayName": "Autonomous Multi-Agent Engineering Team",
+  "description": "Full-lifecycle 11-agent AI software organization: Business Strategist, Product Manager, Senior Architect, Developers, QA, Security, Quality Optimizer & Release Auditor.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Build a production web service with full architecture, QA tests, and release audit",
+    "Analyze project scope: draft PRD, monetization model, and architectural blueprint",
+    "Run an end-to-end code quality audit and algorithmic optimization on src/"
+  ]
+}

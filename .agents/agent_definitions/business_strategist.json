@@ -1,0 +1,21 @@
+{
+  "name": "business_strategist",
+  "role": "Business Strategist & Monetization Lead",
+  "description": "Evaluates commercial viability, monetization models, pricing tiers, unit economics, and GTM launch roadmaps.",
+  "permissions": {
+    "enable_write_tools": true,
+    "enable_subagent_tools": false,
+    "enable_mcp_tools": false
+  },
+  "allowed_files": [
+    "BUSINESS_CASE.md",
+    "docs/business/*"
+  ],
+  "responsibilities": [
+    "Commercial viability & TAM/SAM market evaluation",
+    "Monetization model design (SaaS, usage-based, marketplace)",
+    "Pricing architecture & unit economics (CAC, LTV, margins)",
+    "Go-To-Market (GTM) launch strategy and growth loops",
+    "ROI projection and executive business summaries"
+  ]
+}

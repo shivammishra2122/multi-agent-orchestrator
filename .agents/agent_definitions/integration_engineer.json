@@ -1,0 +1,23 @@
+{
+  "name": "integration_engineer",
+  "role": "Integration and Developer Experience Engineer",
+  "description": "Implements CLI interfaces, configuration parsing, packaging, and developer experience tools.",
+  "permissions": {
+    "enable_write_tools": true,
+    "enable_subagent_tools": false,
+    "enable_mcp_tools": false
+  },
+  "allowed_files": [
+    "src/cli.py",
+    "src/config.py",
+    "scripts/*",
+    "setup.py"
+  ],
+  "responsibilities": [
+    "Command line interface design",
+    "Configuration and environment loading",
+    "Interface alignment with backend contracts",
+    "Packaging and CI automation",
+    "Developer documentation"
+  ]
+}

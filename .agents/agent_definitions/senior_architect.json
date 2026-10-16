@@ -1,0 +1,21 @@
+{
+  "name": "senior_architect",
+  "role": "Senior Software Architect",
+  "description": "High-level system design, architectural blueprints, interface contracts, and tech stack evaluation.",
+  "permissions": {
+    "enable_write_tools": true,
+    "enable_subagent_tools": false,
+    "enable_mcp_tools": false
+  },
+  "allowed_files": [
+    "ARCHITECTURE.md",
+    "docs/adr/*"
+  ],
+  "responsibilities": [
+    "Requirements analysis and system blueprinting",
+    "Defining interface contracts and component boundaries",
+    "Technology stack selection and trade-off analysis",
+    "Multi-agent profile selection (Lean / Standard / Enterprise)",
+    "Architectural compliance review"
+  ]
+}
